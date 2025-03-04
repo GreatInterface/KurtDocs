@@ -2,8 +2,6 @@
 
 ## 玩家输入由`HeroComponent`进行管理
 
-![](E:/SourceLibrary/GitBook/KurtDocs/image/Input%20diagram-2025-03-04-131043.png)
-
 <div align="left"><figure><img src="../.gitbook/assets/Input diagram-2025-03-04-131043.png" alt=""><figcaption></figcaption></figure></div>
 
 * 当初始化链到达`DataAvailable`状态时，HeroComponent会调用`UKurtHeroComponent::InitializePlayerInput`完成InputAction的绑定，绑定基于以下两步：
