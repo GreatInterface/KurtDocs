@@ -11,3 +11,6 @@
 * [Input](md/Input.md)
 
 ## GameplayAbilitySystem
+
+- [AbilitySystemComponent](md/AbilitySystem/AbilitySystemComponent.md)
+- [GameplayAbility](md/AbilitySystem/GameplayAbility.md)
