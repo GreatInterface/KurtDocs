@@ -17,3 +17,10 @@
 	- [Ability重要函数](md/AbilitySystem/Ability/重要函数整理.md)
 	- [Melee Attack](md/AbilitySystem/Ability/MeleeAttack.md)
 
+## Inventory & Equipment
+
+- Inventory
+	- [Definition](md/Inventory/InventoryDefinition.md)
+	- [ManagerComponent](md/Inventory/InventoryManagerComponent.md)
+- Equipment
+  - [ManagerComponent](md/Equipment/EquipmentManager.md)
